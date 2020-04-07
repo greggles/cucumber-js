@@ -17,7 +17,7 @@ Cucumber.js is the JavaScript implementation of Cucumber and runs on the [mainta
 
 ## Try it now
 
-We've put a demo of Cucumber.js to [run in your browser](http://cucumber.github.io/cucumber-js/). Why don't you give it a try before anything else?
+We've put a demo of Cucumber.js to [run in your browser](https://cucumber.github.io/cucumber-js/). Why don't you give it a try before anything else?
 
 ## Help & support
 
